@@ -8,13 +8,13 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFpZ2Nya2VtcWd3YnQxdDcyNHdwZ2NxNzEzMGJ4MmRxYW1mZWdkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jqDU6oXajm0RsoxhdB/giphy.gif" width="380" alt="Gandalf - You shall not pass"/>
 </p>
 
-<h3 align="center">🧙‍♂️ "You shall not pass... sem antes dar um <code>git clone</code> aqui!"</h3>
+<h3 align="center">🧙‍♂️ "You shall not pass... "</h3>
 
 <br/>
 
-## 👋 Sobre mim
+## Primeiramente, deixe-me contar um pouco sobre mim
 
-- 🎓 Programador Junior e Monitor na **UFRJ** — Universidade Federal do Rio de Janeiro
+- 🎓 Programador Junior e Monitor (mais de 3 anos monitor) na **UFRJ** — Universidade Federal do Rio de Janeiro
 - 💻 Trabalho principalmente com **Python, C e Java**
 - 🛡️ Sempre guardando a ponte de Khazad-dûm... e o código limpo
 - 📫 Me encontre em outros projetos pelas equipes abaixo ⬇️
@@ -43,8 +43,8 @@
 
 | Equipe | Papel |
 |:---|:---|
-| 🧑‍💻 **for{code}** | Membro / Desenvolvedor |
-| 📈 **UFRJ Analítica** | Membro |
+| 🧑‍💻 **for{code}** | Membro / Desenvolvedor / Pessoas |
+| 📈 **UFRJ Analítica** | Membro / Desenvolvimento |
 | 🎬 **GDP** | Roteirista |
 
 <br/>
