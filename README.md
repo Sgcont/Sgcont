@@ -15,9 +15,8 @@
 ## Primeiramente, deixe-me contar um pouco sobre mim
 
 - 🎓 Programador Junior e Monitor (mais de 3 anos monitor) na **UFRJ** — Universidade Federal do Rio de Janeiro
-- 💻 Trabalho principalmente com **Python, C e Java**
-- 🛡️ Sempre guardando a ponte de Khazad-dûm... e o código limpo
-- 📫 Me encontre em outros projetos pelas equipes abaixo ⬇️
+- 💻 Trabalho principalmente com **Python, SQL, C e Java**, conhecimento de machine learning, análise de dados e ciência de dados 
+- 📫 Me encontre em outros projetos pelas equipes : UFRJ analítica e For code
 
 <br/>
 
