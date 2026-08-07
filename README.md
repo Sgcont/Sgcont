@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFpZ2Nya2VtcWd3YnQxdDcyNHdwZ2NxNzEzMGJ4MmRxYW1mZWdkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jqDU6oXajm0RsoxhdB/giphy.gif" width="380" alt="Gandalf - You shall not pass"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGY0cW1zM2JqaHI3dXduams3bzNsZWtxM2ZqYm9hMWtkZmFrNTRlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S6sZaHdqsGYFO/giphy.gif" width="380" alt="Gandalf - You shall not pass"/>
 </p>
 
 <h3 align="center">🧙‍♂️ "You shall not pass... "</h3>
