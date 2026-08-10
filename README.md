@@ -72,14 +72,6 @@ Projeto voltado para análise de transporte público, trabalhando com linhas, vi
 
 ---
 
-### 🎵 Spotify Analysis
-
-Projeto de análise exploratória de dados relacionados a músicas e playlists, utilizando técnicas de manipulação, análise e visualização de dados.
-
-**Tecnologias:** Python · Pandas · NumPy · Matplotlib
-
----
-
 ### 🤖 Machine Learning
 
 Projetos experimentais para estudar e aplicar algoritmos de Machine Learning, incluindo classificação, agrupamento e análise de dados.
@@ -188,21 +180,19 @@ Experiência com controle e organização de estoque de alimentos, utilizando **
 
 <p align="center">
 
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://www.linkedin.com/in/lucas-de-araujo-contreiras-174185301/">
+ <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-1b1b2f?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<a href="mailto:lucas@contreiras.info">
+ <img src="https://img.shields.io/badge/Email-1b1b2f?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://github.com/Sgcont">
-  <img src="https://img.shields.io/badge/GitHub-1b1b2f?style=for-the-badge&logo=github&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/GitHub-1b1b2f?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 </p>
-
----
 
 ## 🐍 Contributions
 
