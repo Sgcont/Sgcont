@@ -17,11 +17,23 @@
 <img src="https://img.shields.io/badge/NumPy-1b1b2f?style=for-the-badge&logo=numpy&logoColor=013243"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-1b1b2f?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
 <img src="https://img.shields.io/badge/Git-1b1b2f?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-1b1b2f?style=for-the-badge&logo=github&logoColor=ffffff"/></p><br/>📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Sgcont&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c792ea&text_color=ffffff&icon_color=c792ea" alt="GitHub Stats"/>
-</p><br/>🤝 Equipes que já fiz parte
+<div align="center">
+
+<img src="https://img.shields.io/badge/GitHub-1b1b2f?style=for-the-badge&logo=github&logoColor=ffffff"/>
+
+### 📊 GitHub Stats
+
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/?username=Sgcont&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c792ea&text_color=ffffff&icon_color=c792ea" 
+    alt="GitHub Stats"
+  />
+</p>
+
+</div>
+
+🤝 Equipes que já fiz parte
 
 <p align="center">
   <img src="https://img.shields.io/badge/for%7Bcode%7D-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="for{code}"/>
