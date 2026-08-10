@@ -22,16 +22,16 @@
 
 <img src="https://img.shields.io/badge/GitHub-1b1b2f?style=for-the-badge&logo=github&logoColor=ffffff"/>
 
-### 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
-<p>
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/?username=Sgcont&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c792ea&text_color=ffffff&icon_color=c792ea" 
+    src="https://github-readme-stats.vercel.app/api?username=Sgcont&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c792ea&text_color=ffffff&icon_color=c792ea"
     alt="GitHub Stats"
   />
 </p>
 
-</div>
+<br/>
 
 🤝 Equipes que já fiz parte
 
