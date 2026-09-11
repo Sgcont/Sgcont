@@ -1,170 +1,157 @@
-<div align="center">
+<div align="right">🇧🇷 Português · "🇺🇸 English" (README_EN.md)
 
-<table>
-<tr>
-<td width="260" align="center" valign="top">
+</div><div align="center"><img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b1b2f&height=180&section=header&text=Lucas%20de%20Araujo&fontSize=38&fontColor=ffffff&desc=Junior%20Coder%20%7C%20Python%20%C2%B7%20C%20%C2%B7%20Java%20%C2%B7%20SQL&descAlignY=63&descSize=16](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1b1b2f&height=180&section=header&text=Lucas%20de%20Araujo&fontSize=38&fontColor=ffffff&desc=Junior%20Coder%20%7C%20Python%20%C2%B7%20C%20%C2%B7%20Java%20%C2%B7%20SQL&descAlignY=63&descSize=16)" width="100%"/><img src="[https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGY0cW1zM2JqaHI3dXduams3bzNsZWtxM2ZqYm9hMWtkZmFrNTRlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S6sZaHdqsGYFO/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGY0cW1zM2JqaHI3dXduams3bzNsZWtxM2ZqYm9hMWtkZmFrNTRlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S6sZaHdqsGYFO/giphy.gif)" width="380" alt="Gandalf - You shall not pass"/>🧙‍♂️ "You shall not pass..."
 
-<br>
-<img src="https://github.com/Sgcont.png?size=420" width="190" alt="Lucas de Araujo Contreiras"/>
+</div>---
 
-<h2>Lucas de Araujo</h2>
-<code>Sgcont</code>
+👨‍💻 Sobre mim
 
-<br><br>
-<a href="https://github.com/Sgcont">GitHub</a><br>
-<a href="https://www.linkedin.com/in/lucas-de-araujo-contreiras-174185301/">LinkedIn</a><br>
-<a href="mailto:lucas@contreiras.info">Email</a>
+🎓 Estudante de Ciência da Computação na UFRJ e programador junior.
 
-</td>
-<td valign="top">
+💻 Experiência principalmente com Python, C, Java e SQL, com conhecimentos em Machine Learning, Análise de Dados, Ciência de Dados e Banco de Dados.
 
-<sub><code>Sgcont / README.md</code></sub>
+📊 Gosto de trabalhar com dados desde sua organização e modelagem até a análise e desenvolvimento de aplicações.
 
-<pre>
-lucas@ufrj:~$ neofetch --profile
+🧠 Atualmente aprofundando meus conhecimentos em Machine Learning, Java, Banco de Dados e desenvolvimento de software.
 
-             _                 Lucas de Araujo Contreiras
-        ____| |___             --------------------------
-       / __ \  __ \            Education: UFRJ
-      / /_/ / / / /            Focus:     Data, ML, Databases
-     / ____/ / / /             Languages: Python, C, Java, SQL
-    /_/   /_/ /_/              Projects:  Development and data analysis
-       _   _                  Status:    Learning and building
-      | |_| | | |
-       \__|_| |_|
+📫 Também participo de projetos, equipes e atividades acadêmicas na UFRJ.
 
-lucas@ufrj:~$ </pre>
+🛠️ Tecnologias e Ferramentas
 
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-<sub><code>Computer Science student @ UFRJ · Junior Developer · Data enthusiast</code></sub>
-</div>
-
----
-
-## About me
-
-I am a Computer Science student at the Federal University of Rio de Janeiro
-(UFRJ) and a junior developer. My main experience is with Python, C, Java, and
-SQL, supported by knowledge of Machine Learning, Data Analysis, Data Science,
-and Databases.
-
-I enjoy working with data throughout its lifecycle: organizing and cleaning
-information, modeling relationships, exploring patterns, building analyses,
-and using the results to develop useful applications. I also participate in
-academic projects, teams, and activities at UFRJ.
-
-## Languages and tools
-
-### Programming languages
+💻 Linguagens de programação
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
-  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL"/>
-</p>
+  <img src="[https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)"/>
+  <img src="[https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)"/>
+  <img src="[https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)"/>
+  <img src="[https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)"/>
+</p>🗣️ Linguagens não exatamente de programação
 
-### Data and machine learning
+<p align="center">"🇧🇷 Português — Nativo" · "🇺🇸 Inglês — Intermediário" · "🇪🇸 Espanhol — Intermediário"
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=matplotlib&logoColor=ffffff" alt="Matplotlib"/>
-</p>
+</p>«Afinal, nem toda linguagem precisa compilar.»
 
-### Databases and development tools
+📊 Dados & Machine Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-</p>
-
-### Spoken languages
-
-`Portuguese — Native` · `English — Intermediate` · `Spanish — Intermediate`
-
-> Not every language needs to compile.
-
----
-
-## Featured projects
-
-| Project | Description | Technologies |
-| --- | --- | --- |
-| **Public Transportation** | Analysis of lines, trips, neighborhoods, and geographic data. | Python · SQL · SQLite · Pandas · GeoPandas |
-| **Machine Learning** | Experiments with classification, clustering, and data analysis. | Python · NumPy · Pandas · Scikit-Learn |
-| **Databases** | Academic work with data modeling, SQL queries, relationships, aggregations, and multiple data sources. | SQL · SQLite · Python |
-
-See all projects at [github.com/Sgcont](https://github.com/Sgcont?tab=repositories).
-
-## Currently learning
-
-- Object-Oriented Programming with Java
-- Machine Learning
-- Databases and SQL
-- Data Analysis and Data Science
-- Software Development
-- Algorithms and Data Structures
-
-## Education
-
-**Federal University of Rio de Janeiro — UFRJ**<br>
-Bachelor's Degree in Computer Science
-
-Areas of interest: Computer Science · Mathematics · Data Science · Machine
-Learning · Databases
-
-## Experience
-
-### Inventory Management and Data Analysis
-
-Experience organizing and monitoring food inventory with Excel, including:
-
-- Inventory control and organization
-- Data recording and analysis
-- Comparison of information across different periods
-- Inbound and outbound tracking
-- Organization of information for decision-making
-- Analysis of surplus and resource utilization
-
-## Activities and teams
-
-- Calculus I teaching assistant at UFRJ
-- Data Organization teaching assistant
-- Participation in development projects
-- Participation in data-related projects
-- Member of the `for_code` team
-- Member of `UFRJ Analítica`
-- Screenwriter at GDP
-
-| Team | Role |
-| --- | --- |
-| `for_code` | Member · Development · People |
-| `UFRJ Analítica` | Member · Development |
-| `GDP` | Screenwriter |
-
----
-
-## GitHub stats
+  <img src="[https://img.shields.io/badge/Pandas-1b1b2f?style=for-the-badge&logo=pandas&logoColor=150458](https://img.shields.io/badge/Pandas-1b1b2f?style=for-the-badge&logo=pandas&logoColor=150458)"/>
+  <img src="[https://img.shields.io/badge/NumPy-1b1b2f?style=for-the-badge&logo=numpy&logoColor=013243](https://img.shields.io/badge/NumPy-1b1b2f?style=for-the-badge&logo=numpy&logoColor=013243)"/>
+  <img src="[https://img.shields.io/badge/Scikit--Learn-1b1b2f?style=for-the-badge&logo=scikit-learn&logoColor=F7931E](https://img.shields.io/badge/Scikit--Learn-1b1b2f?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)"/>
+  <img src="[https://img.shields.io/badge/Matplotlib-1b1b2f?style=for-the-badge&logo=matplotlib&logoColor=ffffff](https://img.shields.io/badge/Matplotlib-1b1b2f?style=for-the-badge&logo=matplotlib&logoColor=ffffff)"/>
+</p>🗄️ Banco de Dados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sgcont&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=ffffff&icon_color=c792ea" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sgcont&layout=compact&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=ffffff" alt="Most Used Languages"/>
-</p>
+  <img src="[https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57)"/>
+  <img src="[https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)"/>
+</p>🛠️ Ferramentas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sgcont/Sgcont/output/github-snake-dark.svg" alt="GitHub contribution snake"/>
-</p>
+  <img src="[https://img.shields.io/badge/Git-1b1b2f?style=for-the-badge&logo=git&logoColor=F05032](https://img.shields.io/badge/Git-1b1b2f?style=for-the-badge&logo=git&logoColor=F05032)"/>
+  <img src="[https://img.shields.io/badge/GitHub-1b1b2f?style=for-the-badge&logo=github&logoColor=ffffff](https://img.shields.io/badge/GitHub-1b1b2f?style=for-the-badge&logo=github&logoColor=ffffff)"/>
+</p>---
 
-<div align="center">
-<pre>lucas@ufrj:~$ echo "Not every language needs to compile."
-Not every language needs to compile.</pre>
-</div>
+🚀 Projetos em Destaque
+
+🚌 Transporte Público
+
+Projeto voltado para análise de transporte público, trabalhando com linhas, viagens, bairros e dados geográficos.
+
+Tecnologias: Python · SQL · SQLite · Pandas · GeoPandas
+
+🤖 Machine Learning
+
+Projetos experimentais para estudar e aplicar algoritmos de Machine Learning, incluindo classificação, agrupamento e análise de dados.
+
+Tecnologias: Python · NumPy · Pandas · Scikit-Learn
+
+🗄️ Banco de Dados
+
+Projetos acadêmicos envolvendo modelagem, consultas SQL, relacionamentos entre tabelas, agregações e integração de diferentes fontes de dados.
+
+Tecnologias: SQL · SQLite · Python
+
+«💡 Veja todos os projetos:
+"github.com/Sgcont" ([https://github.com/Sgcont?tab=repositories)»](https://github.com/Sgcont?tab=repositories)»)
+
+🧠 Atualmente estudando
+
+- ☕ Programação Orientada a Objetos com Java
+- 🤖 Machine Learning
+- 🗄️ Banco de Dados e SQL
+- 📊 Análise e Ciência de Dados
+- 💻 Desenvolvimento de Software
+- 📐 Algoritmos e Estruturas de Dados
+
+🎓 Formação
+
+Universidade Federal do Rio de Janeiro — UFRJ
+
+Bacharelado em Ciência da Computação
+
+Áreas de interesse:
+
+"Computação" · "Matemática" · "Ciência de Dados" · "Machine Learning" · "Banco de Dados"
+
+💼 Experiência
+
+Controle de Estoque e Análise de Dados
+
+Experiência com controle e organização de estoque de alimentos, utilizando Excel para registro, acompanhamento e análise dos dados.
+
+- 📦 Controle e organização de estoque
+- 📊 Registro e análise de dados
+- 📈 Comparação de informações entre períodos
+- 🔄 Controle de entradas e saídas
+- 📋 Organização de informações para tomada de decisão
+- 💡 Análise de sobras e utilização dos recursos
+
+🏆 Atividades
+
+- 🎓 Monitor de Cálculo I na UFRJ
+- 📚 Monitor de Organização de Dados
+- 👨‍💻 Participação em projetos de desenvolvimento
+- 📊 Participação em projetos relacionados a dados
+- 🧑‍💻 Membro da equipe for{code}
+- 📈 Participação na UFRJ Analítica
+- 🎬 Roteirista no GDP
+
+🤝 Equipes
+
+<p align="center">
+  <img src="[https://img.shields.io/badge/for%7Bcode%7D-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117](https://img.shields.io/badge/for%7Bcode%7D-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)" alt="for{code}"/>
+  <img src="[https://img.shields.io/badge/UFRJ%20Anal%C3%ADtica-1b1b2f?style=for-the-badge&logo=googleanalytics&logoColor=00e0ff&labelColor=1b1b2f](https://img.shields.io/badge/UFRJ%20Anal%C3%ADtica-1b1b2f?style=for-the-badge&logo=googleanalytics&logoColor=00e0ff&labelColor=1b1b2f)" alt="UFRJ Analítica"/>
+  <img src="[https://img.shields.io/badge/GDP%20%C2%B7%20Roteirista-2d0a4e?style=for-the-badge&logo=imdb&logoColor=f5c518&labelColor=2d0a4e](https://img.shields.io/badge/GDP%20%C2%B7%20Roteirista-2d0a4e?style=for-the-badge&logo=imdb&logoColor=f5c518&labelColor=2d0a4e)" alt="GDP - Roteirista"/>
+</p>Equipe| Papel
+🧑‍💻 for{code}| Membro / Desenvolvimento / Pessoas
+📈 UFRJ Analítica| Membro / Desenvolvimento
+🎬 GDP| Roteirista
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=Sgcont&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c792ea&text_color=ffffff&icon_color=c792ea](https://github-readme-stats.vercel.app/api?username=Sgcont&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c792ea&text_color=ffffff&icon_color=c792ea)" alt="GitHub Stats"/>
+</p><p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Sgcont&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c792ea&text_color=ffffff](https://github-readme-stats.vercel.app/api/top-langs/?username=Sgcont&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c792ea&text_color=ffffff)" alt="Most Used Languages"/>
+</p>---
+
+📬 Onde me encontrar
+
+<p align="center"><a href="[https://www.linkedin.com/in/lucas-de-araujo-contreiras-174185301/](https://www.linkedin.com/in/lucas-de-araujo-contreiras-174185301/)">
+  <img src="[https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)"/>
+</a><a href="mailto:lucas@contreiras.info">
+  <img src="[https://img.shields.io/badge/Email-1b1b2f?style=for-the-badge&logo=gmail&logoColor=EA4335](https://img.shields.io/badge/Email-1b1b2f?style=for-the-badge&logo=gmail&logoColor=EA4335)"/>
+</a><a href="[https://github.com/Sgcont](https://github.com/Sgcont)">
+  <img src="[https://img.shields.io/badge/GitHub-1b1b2f?style=for-the-badge&logo=github&logoColor=ffffff](https://img.shields.io/badge/GitHub-1b1b2f?style=for-the-badge&logo=github&logoColor=ffffff)"/>
+</a></p>---
+
+🐍 Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Sgcont/Sgcont/output/github-snake-dark.svg](https://raw.githubusercontent.com/Sgcont/Sgcont/output/github-snake-dark.svg)"/>
+    <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/Sgcont/Sgcont/output/github-snake.svg](https://raw.githubusercontent.com/Sgcont/Sgcont/output/github-snake.svg)"/>
+    <img src="[https://raw.githubusercontent.com/Sgcont/Sgcont/output/github-snake.svg](https://raw.githubusercontent.com/Sgcont/Sgcont/output/github-snake.svg)" alt="GitHub contribution snake"/>
+  </picture>
+</p>---
+
+<div align="center"><img src="[https://capsule-render.vercel.app/api?type=waving&color=0:1b1b2f,100:0d1117&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:1b1b2f,100:0d1117&height=120&section=footer)" width="100%"/></div>
